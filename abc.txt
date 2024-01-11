@@ -1,3 +1,7 @@
 hello I am a txt file 
 
 I am having fun learning git
+
+git add remote origin https://github.com/aptdpd/gitlearning 
+git branch -M main
+git push -u origin main 
